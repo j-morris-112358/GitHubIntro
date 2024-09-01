@@ -1,2 +1,2 @@
 # GitHubIntro
-Reprositoy for GitHubIntro
+Repository for GitHub Intro
